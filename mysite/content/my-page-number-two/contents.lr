@@ -1,0 +1,15 @@
+_model: page
+---
+title: Number Two!
+---
+body:
+
+I wrote some content in page number two!
+Here's an eagle I added by putting an html img tag in the page:
+
+<img src="american-eagle-11546838827mqwrfx6xlx.png" />
+
+---
+_discoverable: yes
+---
+_slug: number-two
